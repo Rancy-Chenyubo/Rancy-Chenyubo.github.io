@@ -9,3 +9,5 @@
 .experience-logo{padding:3px;background:#fff;border:0;border-radius:4px;overflow:hidden;box-shadow:none;text-shadow:none}.experience-logo img{display:block;width:100%;height:100%;object-fit:contain}.experience-logo.hku,.experience-logo.sufe,.experience-logo.tiktok,.experience-logo.psbc,.experience-logo.zte,.experience-logo.securities{background:#fff}
 
 .experience-logo{width:48px;height:40px;flex:0 0 48px;padding:2px}.experience-logo.hku,.experience-logo.sufe{width:38px;flex-basis:38px}.experience-logo.psbc{padding:3px}.experience-logo.tiktok,.experience-logo.securities{width:58px;flex-basis:58px}
+
+@media(min-width:768px){.site-title{font-size:16px;letter-spacing:-.6px}}@media(min-width:768px) and (max-width:1000px){.site-title{font-size:13px;letter-spacing:-.6px}}@media(max-width:420px){.site-title{font-size:15px}}

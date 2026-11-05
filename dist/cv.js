@@ -14,7 +14,7 @@
     toggle.textContent = chinese ? 'Switch to English' : '切换中文';
     toggle.setAttribute('aria-label', chinese ? 'Switch CV to English' : '切换为中文简历');
     print.textContent = chinese ? '打印 / 保存 PDF' : 'Print / Save PDF';
-    home.textContent = chinese ? '← 返回主页' : '← Homepage';
+    home.textContent = chinese ? '← 主页和作品集' : '← Home & Portfolio';
     document.querySelector('.toolbar').setAttribute('aria-label', chinese ? '简历操作' : 'CV controls');
     document.querySelector('.skip-link').textContent = chinese ? '跳至简历' : 'Skip to CV';
     if (announce) status.textContent = chinese ? '已切换为中文简历。' : 'English CV selected.';
