@@ -11,3 +11,5 @@
 .experience-logo{width:48px;height:40px;flex:0 0 48px;padding:2px}.experience-logo.hku,.experience-logo.sufe{width:38px;flex-basis:38px}.experience-logo.psbc{padding:3px}.experience-logo.tiktok,.experience-logo.securities{width:58px;flex-basis:58px}
 
 @media(min-width:768px){.site-title{font-size:16px;letter-spacing:-.6px}}@media(min-width:768px) and (max-width:1000px){.site-title{font-size:13px;letter-spacing:-.6px}}@media(max-width:420px){.site-title{font-size:15px}}
+
+@media(min-width:768px){.site-title{font-size:18px;letter-spacing:-.45px}}@media(min-width:768px) and (max-width:1000px){.site-title{font-size:15px;letter-spacing:-.5px}}@media(max-width:420px){.site-title{font-size:17px}}
